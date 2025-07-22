@@ -1,0 +1,10 @@
+stages:
+  - build
+  - test
+
+variables:
+  SECRET_API_KEY: FAKE_API_KEY_HH74190DGH2F0936BA8E
+
+build:
+  script:
+    - echo 'Building Project 10'

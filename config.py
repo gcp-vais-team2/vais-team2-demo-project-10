@@ -1,0 +1,1 @@
+CONFIG = {'project_id': 10, 'debug': True, 'owner': 'vais-team1'}

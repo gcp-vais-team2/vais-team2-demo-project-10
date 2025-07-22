@@ -1,0 +1,5 @@
+{
+  "model": "demo_model_10",
+  "uri": "s3://bucket/model_10.pkl",
+  "registered_on": "2025-07-22T12:59:21.697577"
+}
